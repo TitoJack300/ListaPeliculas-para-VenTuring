@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "titulo": "Die Hard",
+    "descripcion": "Die Hard es una serie de películas de acciÃ³n que toma su título de la película con la que se inició la serie: Die Hard, estrenada en 1988 y basada en la famosa novela de 1979 Nothing Lasts Forever, de Roderick Thorp.",
+    "año": "1988"
+  },
+  {
+    "id": 1,
+    "titulo": "Iron Man",
+    "descripcion": "Un empresario millonario construye un traje blindado y lo usa para combatir el crimen y el terrorismo.",
+    "año": "2008"
+
+  },
+  {
+    "id": 2,
+    "titulo": "Tropic Thunder",
+    "descripcion": "Un grupo de actores filman un largometraje sobre la guerra de Vietnam. El director, incapaz de controlarlos en el set, decide abandonarlos en medio de la selva y filmarlos con cámaras automáticas. Allá, los artistas deben sobrevivir al peligro real apelando a sus dotes interpretativas.",
+    "año": "2008"
+
+  },
+  {
+    "id": 3,
+    "titulo": "El Señor de los Anillos: la Comunidad del Anillo",
+    "descripcion": "Frodo Bolsón es un hobbit al que su tí¬o Bilbo hace portador del poderoso Anillo único, capaz de otorgar un poder ilimitado al que la posea, con la finalidad de destruirlo. Sin embargo, fuerzas malignas muy poderosas quieren arrebatárselo.",
+    "año": "2002"
+
+  },
+  {
+    "id": 4,
+    "titulo": "Mision imposible",
+    "descripcion": "Se trata de la primera entrega de la serie cinematográfica Misión imposible, que a su vez está basada en la serie de televisiÃ³n del mismo nombre, creada por Bruce Geller. Fue dirigida por Brian De Palma y protagonizada por Tom Cruise como Ethan Hunt.",
+    "año": "2002"
+
+  }
+
+]
