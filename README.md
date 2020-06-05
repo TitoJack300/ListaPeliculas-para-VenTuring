@@ -11,8 +11,11 @@ Cosas que no pude hacer:
 •	Los puntos Bonus.
 
 Cosas que puede hacer:
+
 •	Se muestra una lista de películas con un titulo, una descripción, el año.
+
 •	Se pueden cargar o eliminar películas
+
 •	Se puede buscar una película por su titulo y año; o solo por uno de los atributos mencionados.
 
 Me quede con la duda si exporte bien el proyecto y si lo pueden ver.
