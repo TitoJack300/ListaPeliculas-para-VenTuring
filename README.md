@@ -3,8 +3,11 @@
 
 Este es el proyecto completo hecho con la IDE webStorm. Solo modifique el App.js y cree una carpeta components con FormularioBuscarPelicula.js, FormularioBuscarPeliculaTiempo.js, FormularioPeliculas.js, MiComponente.js, películas.json, Tarea.js y Tareas.js.
 Cosas que no pude hacer:
+
 •	Mejorar la interfaz para que se vea mejor.
+
 •	Cargar las películas desde un CSV.
+
 •	Los puntos Bonus.
 
 Cosas que puede hacer:
